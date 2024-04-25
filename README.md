@@ -6,7 +6,7 @@ This library is based on the [great work](https://github.com/kriswiner/MPU9250) 
 
 ## WARNING
 
-**MPU-9250 has been DISCONTINUED. I won't provide active support. This library supports only genuine MPU-9250, and I can't help other copy products of it**
+**MPU-9250 has been DISCONTINUED (Note: seems that InvenSense had released a new MEMS to replace MPU-9250, see [ICM-20948](https://invensense.tdk.com/wp-content/uploads/2018/10/AN-000146-v2.0-TDK_Migration_MPU_9250toICM-20948.pdf)). I won't provide active support. This library supports only genuine MPU-9250, and I can't help other copy products of it**
 
 If you have a problem, first read the FAQ. After that, please search for similar issues. Please open the issue and fill out the issue template if you can't find the solution.
 
